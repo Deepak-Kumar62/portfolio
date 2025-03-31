@@ -41,7 +41,7 @@ function Contact() {
               <h3 className="conact__card-title">Whatsapp</h3>
               <span className="contact__card-data">6207693395</span>
               <a
-                href="https://api.whatsapp.com/send?phone=6207693395&text=Hello, more information!"
+                href="https://api.whatsapp.com/send?phone=916207693395&text=Hello, more information!"
                 className="contact__button"
               >
                 Write me{" "}
