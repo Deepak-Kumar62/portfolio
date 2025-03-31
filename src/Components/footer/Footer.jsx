@@ -40,7 +40,7 @@ function Footer() {
           </a>
         </div>
 
-        <span className="footer__copy">&#169; Crypticalcoder. All right reserved.</span>
+        <span className="footer__copy">&#169; 2025 Deepak Kumar. All right reserved.</span>
       </div>
     </footer>
   );
