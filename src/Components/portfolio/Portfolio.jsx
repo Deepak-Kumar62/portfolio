@@ -1,10 +1,16 @@
 import "./portfolio.css"
 import Expense from "../../assets/expense-tracker.png"
+import DoctorAppointmentImage from "../../assets/doctor-appointment.png"
 
 import ProjectCard from "./ProjectCard"
 
 const Portfolio = () => {
     const projects = [
+        {
+            project_image: DoctorAppointmentImage,
+            project_title: "Doctor-Appointment_Booking-System",
+            project_link: "https://doctor-appointment-booking-system3.netlify.app/"
+        },
         {
             project_image: Expense,
             project_title: "Budget Buddy",
