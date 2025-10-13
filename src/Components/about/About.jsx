@@ -15,7 +15,7 @@ function About() {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Full-Stack Developer, I specialize in developing scalable web applications with modern technologies. As a third-year Computer Science student, I am continuously learning and building projects that enhance user experience and performance.
+            I’m a beginner full-stack developer passionate about building simple and user-friendly web applications. As a final-year Computer Science student, I’m learning modern technologies and creating projects to improve my skills and understand how real-world applications work.
           </p>
 
           <a href={CV} className="button button__flex">
